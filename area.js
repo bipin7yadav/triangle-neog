@@ -4,7 +4,7 @@ const output = document.querySelector("#output");
 
 
 function sumOfSides(a,b){
-    const area = a + b
+    const area = a * b
     // console.log(area)
     return area
 }
